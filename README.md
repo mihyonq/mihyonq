@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mihyonq
 - 👀 I’m interested in aws
-- 🌱 I’m currently learning 
-- 📫 You can reatch me this account
+- 🌱 I’m currently learning violin
+- 📫 You can reach me this account
 
 <!---
 mihyonq/mihyonq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
