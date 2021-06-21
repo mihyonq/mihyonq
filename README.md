@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihyonq
 - 👀 I’m interested in aws
-- 🌱 I’m currently learning violin
+- 🎹 I love piano
 - 📫 You can reach me this account
 
 <!---
